@@ -14,7 +14,11 @@ Technical sovereignty is the pillar that sustains Wali OS. We believe the next g
 This repository contains the technical specifications and logic models necessary to implement the Deterministic Execution Layer within enterprise ecosystems. Through the Wali Architect, developers can map complex operational processes and transform them into execution blueprints that are immune to the common interpretative failures of off-the-shelf AI. This is the first step toward creating a truly functional and reliable Artificial Intelligence Operating System.
 
 ## How it compares
-Recurso,Standard LLM Apps,Wali OS Architecture
-Logic,Probabilistic (Maybe),Deterministic (Always)
-Execution,Direct to Production,Isolated Sandbox First
-Error Handling,Hallucination prone,Zero-Error Validation Loop
+Standard LLM Apps:
+Logic = Probabilistic (Maybe);
+Execution = Direct to Production;
+Error Handling = Hallucination prone.
+Wali OS Architecture:
+Logic = Deterministic (Always);
+Execution = Isolated Sandbox First;
+Error Handling = Zero-Error Validation Loop.
