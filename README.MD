@@ -18,6 +18,7 @@ Standard LLM Apps:
 Logic = Probabilistic (Maybe);
 Execution = Direct to Production;
 Error Handling = Hallucination prone.
+
 Wali OS Architecture:
 Logic = Deterministic (Always);
 Execution = Isolated Sandbox First;
